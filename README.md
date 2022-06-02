@@ -23,7 +23,6 @@
                     Considero a leitura, não só digital, mas física, algo de cunho fundamental; e é algo que faço diariamente. Gosto muitíssimo de jogos de simulação, pela emoção transmitida. Adoro escrever linhas de código, e não tenho preconceito; seja HTML, CSS ou uma linguagem de programação, eu estarei lá, escrevendo e amando o que faço.
                 </p>
             </article>
-            <br>
             <article>
                 <h3>Missão & Valores</h3>
                 <p>Tenho como missão utilizar meus conhecimentos para o crescimento da empresa, seja aplicando ou
@@ -37,7 +36,6 @@
                     aprimoração.
                 </p>
             </article>
-            <br>
             <article>
                 <h3>Educação</h3>
                 <p>
