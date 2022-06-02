@@ -57,28 +57,28 @@
         <h2>Skills</h2>
         <div>
             <h3>Tecnologias estudadas</h3>
-            <img align="cemter" width="50px" title="HTML" alt="HTML"
+            <img align="cemter" width="50px" height="50px" title="HTML" alt="HTML"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-            <img align="cemter" width="50px" title="CSS" alt="CSS"
+            <img align="cemter" width="50px" height="50px" title="CSS" alt="CSS"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-            <img align="cemter" width="50px" title="JavaScript" alt="JS" style="border-radius: 100px;"
+            <img align="cemter" width="50px" height="50px" title="JavaScript" alt="JS" style="border-radius: 100px;"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         </div>
         <br>
         <div>
             <h3>Tecnologias em estudo</h3>
-            <img align="cemter" width="50px" title="SASS" alt="SASS" src="sass.svg">
-            <img align="cemter" width="50px" title="Git" alt="Git"
+            <img align="cemter" width="50px" height="50px" title="SASS" alt="SASS" src="sass.svg">
+            <img align="cemter" width="50px" height="50px" title="Git" alt="Git"
                 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-            <img align="cemter" width="50px" title="React" alt="React" src="react.svg">
+            <img align="cemter" width="50px" height="50px" title="React" alt="React" src="react.svg">
         </div>
         <br>
         <div>
             <h3>Tecnologias em seguida</h3>
-            <img align="cemter" width="50px" title="PHP" alt="PHP"
+            <img align="cemter" width="50px" height="50px" title="PHP" alt="PHP"
                 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-            <img align="cemter" width="50px" title="Node" alt="Node" src="node.svg">
-            <img align="cemter" width="50px" title="SQL" alt="SQL" src="sql.svg">
+            <img align="cemter" width="50px" height="50px" title="Node" alt="Node" src="node.svg">
+            <img align="cemter" width="50px" height="50px" title="SQL" alt="SQL" src="sql.svg">
         </div>
     </section>
     <br id="curiosidades">
