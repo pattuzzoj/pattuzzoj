@@ -129,6 +129,6 @@
             <img style="width: 49%;"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattuzzoj&layout=compact&langs_count=7&theme=dark" />
             <img style="width: 49%;"
-                src="https://github-readme-stats.vercel.app/api?username=pattuzzoj" />
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattuzzoj" />
     </section>
 </footer>
