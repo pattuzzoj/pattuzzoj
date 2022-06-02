@@ -143,7 +143,7 @@
 
 <header>
     <h1>Júlio Pattuzzo</h1>
-    <nav>
+    <nav style="background-color: white;">
         <a href="#eu">Sobre mim</a>
         <a href="#skills">Skills</a>
         <a href="#curiosidades">Curiosidades</a>
