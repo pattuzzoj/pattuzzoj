@@ -50,8 +50,8 @@
         </article>
     </section>
     <br>
-    <br>
-    <section id="skills">
+    <br id="skills">
+    <section>
         <h2>Skills</h2>
         <div>
             <h3>Tecnologias estudadas</h3>
@@ -80,9 +80,9 @@
         </div>
     </section>
     <br>
-    <br>
+    <br id="curiosidades">
     <section>
-        <article id="curiosidades">
+        <article>
             <h2>Curiosidades</h2>
             <p>- Pretendo criar meu próprio framework CSS.</p>
             <p>- Criei uma <a href="https://greasyfork.org/pt-BR/scripts/430813-darkmode-3-0">extensão para deixar os sites em estilo DarkMode</a>.</p>
@@ -97,9 +97,9 @@
         </article>
     </section>
     <br>
-    <br>
+    <br id="caminho">
     <section>
-        <article id="caminho">
+        <article>
             <h2>Meu caminho até aqui</h2>
             <p>Em meados de 2021, fiz o curso de Python do Professor Guanabara no YouTube; ao demonstrar interesse, complementei esse estudo numa plataforma de ensino de programação estrangeira, de nome Mimo.
             <br>
@@ -111,17 +111,18 @@
         </article>
     </section>
 </main>
+<br id="contato">
 <footer>
     <section>
-        <article id="contato">
+        <article>
             <h2>Contato</h2>
             <a href="https://wa.me/5527996184548"><img width="50px" title="Whatsapp" alt="Whatsapp" src="whatsapp.svg"></a>
             <a href="mailto:pattuzzo@protonmail.com?subject=Contato&body=%20%0D%20%0DContato%20do%20GitHub"><img title="ProtonMail" alt="ProtonMail" style="width: 180px;" src="protonmail.svg"></a>
             <a href="https://www.linkedin.com/in/j%C3%BAlio-pattuzzo/"><img width="50px" title="Linkedin" alt="Linkedin" src="linkedin.svg"></a>
         </article>
     </section>
-    <br>
-    <section id="estatisticas">
+    <br id="estatisticas">
+    <section>
         <h2>Estatísticas</h2>
         <a style="display: flex; justify-content: space-evenly;" href="https://github.com/pattuzzoj">
             <img style="width: 49%;"
