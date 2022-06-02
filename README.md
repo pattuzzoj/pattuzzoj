@@ -47,7 +47,6 @@
                     Prezo por uma boa formação e por isso dou preferência ao estudo direto da fonte, estudando pelas
                     documentações oficiais (deixando de lado o YouTube e outras mídias, pela falta de teoria nos vídeos, algo essencial), além de documentações gerais, como: W3Schools e MDN.
                 </p>
-                <br>
                 <p>Atualmente curso Análise e Desenvolvimento de Sistemas na Estácio.</p>
             </article>
         </article>
