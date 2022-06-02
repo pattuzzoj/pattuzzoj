@@ -200,25 +200,25 @@
         <div>
             <h3>Tecnologias estudadas</h3>
             <img width="50px" title="HTML" alt="HTML"
-                src="https://raw.githubusercontent.com/devdevicon/master/html5/html5-original.svg">
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
             <img width="50px" title="CSS" alt="CSS"
-                src="https://raw.githubusercontent.com/devdevicon/master/css3/css3-original.svg">
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
             <img width="50px" title="JavaScript" alt="JS" style="border-radius: 100px;"
-                src="https://raw.githubusercontent.com/devdevicon/master/javascript/javascript-plain.svg">
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         </div>
         <br>
         <div>
             <h3>Tecnologias em estudo</h3>
             <img width="50px" title="SASS" alt="SASS" src="sass.svg">
             <img width="50px" title="Git" alt="Git"
-                src="https://raw.githubusercontent.com/jmnote/z-master/svg/git.svg">
+                src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
             <img width="50px" title="React" alt="React" src="react.svg">
         </div>
         <br>
         <div>
             <h3>Tecnologias em seguida</h3>
             <img width="50px" title="PHP" alt="PHP"
-                src="https://raw.githubusercontent.com/jmnote/z-master/svg/php.svg">
+                src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
             <img width="50px" title="Node" alt="Node" src="node.svg">
             <img width="50px" title="SQL" alt="SQL" src="sql.svg">
         </div>
