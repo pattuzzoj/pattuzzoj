@@ -66,18 +66,18 @@
         <br>
         <div>
             <h3>Tecnologias em estudo</h3>
-            <img align="cemter" width="50px" height="50px" title="SASS" alt="SASS" src="sass.svg">
+            <img align="cemter" width="50px" height="50px" title="SASS" alt="SASS" src="icons/sass.svg">
             <img align="cemter" width="50px" height="50px" title="Git" alt="Git"
                 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-            <img align="cemter" width="50px" height="50px" title="React" alt="React" src="react.svg">
+            <img align="cemter" width="50px" height="50px" title="React" alt="React" src="icons/react.svg">
         </div>
         <br>
         <div>
             <h3>Tecnologias em seguida</h3>
             <img align="cemter" width="50px" height="50px" title="PHP" alt="PHP"
                 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-            <img align="cemter" width="50px" height="50px" title="Node" alt="Node" src="node.svg">
-            <img align="cemter" width="50px" height="50px" title="SQL" alt="SQL" src="sql.svg">
+            <img align="cemter" width="50px" height="50px" title="Node" alt="Node" src="icons/node.svg">
+            <img align="cemter" width="50px" height="50px" title="SQL" alt="SQL" src="icons/sql.svg">
         </div>
     </section>
     <br id="curiosidades">
@@ -115,9 +115,9 @@
     <section>
         <article>
             <h2>Contato</h2>
-            <a href="https://wa.me/5527996184548"><img align="cemter" width="50px" height="50px" title="Whatsapp" alt="Whatsapp" src="whatsapp.svg"></a>
-            <a href="mailto:pattuzzo@protonmail.com?subject=Contato&body=%20%0D%20%0DContato%20do%20GitHub"><img align="cemter" width="50px" height="50px" title="ProtonMail" alt="ProtonMail" src="email.svg"></a>
-            <a href="https://www.linkedin.com/in/j%C3%BAlio-pattuzzo/"><img align="cemter" width="50px" height="50px" title="Linkedin" alt="Linkedin" src="linkedin.svg"></a>
+            <a href="https://wa.me/5527996184548"><img align="cemter" width="50px" height="50px" title="Whatsapp" alt="Whatsapp" src="icons/whatsapp.svg"></a>
+            <a href="mailto:pattuzzo@protonmail.com?subject=Contato&body=%20%0D%20%0DContato%20do%20GitHub"><img align="cemter" width="50px" height="50px" title="ProtonMail" alt="ProtonMail" src="icons/email.svg"></a>
+            <a href="https://www.linkedin.com/in/j%C3%BAlio-pattuzzo/"><img align="cemter" width="50px" height="50px" title="Linkedin" alt="Linkedin" src="icons/linkedin.svg"></a>
         </article>
     </section>
     <br id="estatisticas">
