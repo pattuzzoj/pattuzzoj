@@ -1,15 +1,15 @@
 <header>
     <nav>
         <a href="#eu">Sobre mim</a>
-        -
+        /
         <a href="#skills">Skills</a>
-        -
+        /
         <a href="#curiosidades">Curiosidades</a>
-        -
+        /
         <a href="#caminho">Meu caminho até aqui</a>
-        -
+        /
         <a href="#contato">Contato</a>
-        -
+        /
         <a href="#estatisticas">Estatísticas</a>
     </nav>
 </header>
