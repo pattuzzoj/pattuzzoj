@@ -49,7 +49,6 @@
             </article>
         </article>
     </section>
-    <br>
     <br id="skills">
     <section>
         <h2>Skills</h2>
@@ -79,7 +78,6 @@
             <img width="50px" title="SQL" alt="SQL" src="sql.svg">
         </div>
     </section>
-    <br>
     <br id="curiosidades">
     <section>
         <article>
@@ -96,7 +94,6 @@
             </p>
         </article>
     </section>
-    <br>
     <br id="caminho">
     <section>
         <article>
