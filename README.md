@@ -116,9 +116,9 @@
     <section>
         <article>
             <h2>Contato</h2>
-            <a href="https://wa.me/5527996184548"><img align="cemter" width="50px" title="Whatsapp" alt="Whatsapp" src="whatsapp.svg"></a>
-            <a href="mailto:pattuzzo@protonmail.com?subject=Contato&body=%20%0D%20%0DContato%20do%20GitHub"><img align="cemter" width="55px" title="ProtonMail" alt="ProtonMail" src="email.svg"></a>
-            <a href="https://www.linkedin.com/in/j%C3%BAlio-pattuzzo/"><img align="cemter" width="50px" title="Linkedin" alt="Linkedin" src="linkedin.svg"></a>
+            <a href="https://wa.me/5527996184548"><img align="cemter" width="50px" height="50px" title="Whatsapp" alt="Whatsapp" src="whatsapp.svg"></a>
+            <a href="mailto:pattuzzo@protonmail.com?subject=Contato&body=%20%0D%20%0DContato%20do%20GitHub"><img align="cemter" width="50px" height="50px" title="ProtonMail" alt="ProtonMail" src="email.svg"></a>
+            <a href="https://www.linkedin.com/in/j%C3%BAlio-pattuzzo/"><img align="cemter" width="50px" height="50px" title="Linkedin" alt="Linkedin" src="linkedin.svg"></a>
         </article>
     </section>
     <br id="estatisticas">
