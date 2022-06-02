@@ -124,9 +124,9 @@
     <section>
         <h2>Estatísticas</h2>
         <a style="display: flex; justify-content: space-evenly;" href="https://github.com/pattuzzoj">
-            <img style="width: 49.5%;"
+            <img style="width: 49%;"
                 src="https://github-readme-stats.vercel.app/api?username=pattuzzoj&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-            <img style="width: 49.5%;"
+            <img style="width: 49%;"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattuzzoj&layout=compact&langs_count=7&theme=dark" />
     </section>
 </footer>
