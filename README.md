@@ -100,7 +100,7 @@
     <section>
         <article>
             <h2>Meu caminho até aqui</h2>
-            <p>Em meados de 2021, fiz o curso de Python do Professor Guanabara no YouTube; ao demonstrar interesse, complementei esse estudo numa plataforma de ensino de programação estrangeira, de nome Mimo.
+            <p>Em meados de 2021, fiz o curso de Python do Professor Guanabara no YouTube; ao demonstrar interesse, complementei esse estudo numa plataforma de ensino de programação estrangeira, de nome Mimo, além da sua documentação oficial.
             <br>
             Fiz alguns programas básicos, como calculadoras, manipuladores de arquivos .txt, explorei algumas bibliotecas como PyAutoGUI(lib de automação), PySimpleGUI(lib de interface gráfica), ChatterBot(lib de bot de conversa) entre outras... Infelizmente, com o tempo, perdi o interesse na linguagem por não me envolver em nenhum projeto real, então passei para o desenvolvimento mobile e fiz o curso de Kotlin da Google.
             <br>
