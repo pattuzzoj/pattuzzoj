@@ -66,18 +66,18 @@
         <br>
         <div>
             <h3>Tecnologias em estudo</h3>
-            <img align="cemter" width="50px" height="50px" title="SASS" alt="SASS" src="icons/sass.svg">
+            <img align="cemter" width="50px" height="50px" title="PHP" alt="PHP"
+                src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
             <img align="cemter" width="50px" height="50px" title="Git" alt="Git"
                 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-            <img align="cemter" width="50px" height="50px" title="React" alt="React" src="icons/react.svg">
+            <img align="cemter" width="50px" height="50px" title="SQL" alt="SQL" src="icons/sql.svg">
         </div>
         <br>
         <div>
             <h3>Tecnologias em seguida</h3>
-            <img align="cemter" width="50px" height="50px" title="PHP" alt="PHP"
-                src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
+            <img align="cemter" width="50px" height="50px" title="SASS" alt="SASS" src="icons/sass.svg">
+            <img align="cemter" width="50px" height="50px" title="React" alt="React" src="icons/react.svg">
             <img align="cemter" width="50px" height="50px" title="Node" alt="Node" src="icons/node.svg">
-            <img align="cemter" width="50px" height="50px" title="SQL" alt="SQL" src="icons/sql.svg">
         </div>
     </section>
     <br id="curiosidades">
