@@ -66,10 +66,10 @@
         <br>
         <div>
             <h3>Tecnologias em estudo</h3>
-            <img align="cemter" width="50px" height="50px" title="PHP" alt="PHP"
-                src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
             <img align="cemter" width="50px" height="50px" title="Git" alt="Git"
                 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+            <img align="cemter" width="50px" height="50px" title="PHP" alt="PHP"
+                src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
             <img align="cemter" width="50px" height="50px" title="SQL" alt="SQL" src="icons/sql.svg">
         </div>
         <br>
