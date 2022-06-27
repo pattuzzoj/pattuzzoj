@@ -25,7 +25,7 @@
                     de ensino digital Stoodi (excepcional), terminando o ensino fundamental e médio atráves do
                     Encceja (Exame Nacional para Certificação de Competências de Jovens e Adultos).
                     <br>
-                    Considero a leitura, não só digital, mas física, algo de cunho fundamental; e é algo que faço diariamente. Gosto muitíssimo de jogos de simulação, pela emoção transmitida. Adoro escrever linhas de código, e não tenho preconceito; seja HTML, CSS ou uma linguagem de programação, eu estarei lá, escrevendo e amando o que faço.
+                    Considero a leitura algo de cunho fundamental; e é algo que faço diariamente. Gosto muitíssimo de jogos de simulação, pela emoção transmitida. Adoro escrever linhas de código, e não tenho preconceito; seja HTML, CSS ou uma linguagem de programação, eu estarei lá, escrevendo e amando o que faço.
                 </p>
             </article>
             <article>
