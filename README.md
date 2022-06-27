@@ -23,7 +23,7 @@
                     e
                     abandonei a escola ainda no ensino fundamental; adquiri livros (obrigado mãe) e assinei a plataforma
                     de ensino digital Stoodi (excepcional), terminando o ensino fundamental e médio atráves do
-                    Encceja.
+                    Encceja (Exame Nacional para Certificação de Competências de Jovens e Adultos).
                     <br>
                     Considero a leitura, não só digital, mas física, algo de cunho fundamental; e é algo que faço diariamente. Gosto muitíssimo de jogos de simulação, pela emoção transmitida. Adoro escrever linhas de código, e não tenho preconceito; seja HTML, CSS ou uma linguagem de programação, eu estarei lá, escrevendo e amando o que faço.
                 </p>
