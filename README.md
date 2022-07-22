@@ -69,7 +69,7 @@
                 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
             <img align="cemter" width="50px" height="50px" title="SQL" alt="SQL" src="icons/sql.svg">
             <img align="cemter" width="50px" height="50px" title="PHP" alt="PHP"
-                src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
+                src="icons/php.svg">
         </div>
         <div>
             <h3>Tecnologias em seguida</h3>
