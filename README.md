@@ -88,7 +88,7 @@
                     href="https://quizlet.com/Julio_Pattuzzo/folders/conhecimentos-front-end-empireo?x=1xqt&i=4bbcio">Quizes
                     para facilitar na memorização das Tags HTML e das propriedades CSS</a>, entre outros.
             </p>
-            <p>- Possuo um repositório onde documento <a href="https://github.com/pattuzzoj/documentacao">variados conceitos de programação e tecnologias, como HTML, CSS, JAVASCRIPT</a> etc.</p>
+            <p>- Possuo um repositório onde descrevo <a href="https://github.com/pattuzzoj/documentacao">variados conceitos de programação e tecnologias, como HTML, CSS, JAVASCRIPT</a> etc.</p>
             <p>- Se pesquisar meu nome no Google, achará algumas frases e textos que criei entre 2018 a 2021 (Ex
                 aspirante a filósofo).<br>
                 OBS.: Tais textos não refletem necessariamente meu pensamento atual.
