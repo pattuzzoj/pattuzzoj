@@ -46,6 +46,6 @@
   </section>
   <section>
     <h2>Estatísticas</h2>
-    <img style="width: 99%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattuzzoj&layout=compact&langs_count=4&theme=dark" />
+    <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattuzzoj&layout=compact&langs_count=4&theme=dark" />
   </section>
 </footer>
