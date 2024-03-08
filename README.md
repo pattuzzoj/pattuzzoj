@@ -16,7 +16,8 @@
   </section>
   <section>
     <h2>Portfolio</h2>
-    <p>Explore meu portfólio para ver exemplos de meu trabalho com Solid.js e Tailwind CSS.</p>
+  <p>Explore meu <a href="">portfólio</a> (inativo) para ver exemplos de meu trabalho com Solid.js e Tailwind CSS.</p>
+  <h4>Guia rápido para alguns projetos:</h4>
     <a href="https://futuresphere.vercel.app/" target="_blank">FutureSphere</a>
   </section>
   <section>
@@ -36,7 +37,7 @@
 <footer>
   <section>
     <h2>Contato</h2>
-    <p>ntre em contato para discutir oportunidades de trabalho, colaboração ou projetos interessantes.</p>
+    <p>Entre em contato para discutir oportunidades de trabalho, colaboração ou projetos interessantes.</p>
     <a href="mailto:pattuzzo@pm.me?subject=Contato&body=%20%0D%20%0DContato%20do%20GitHub">
       <img title="ProtonMail" alt="ProtonMail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
     </a>
