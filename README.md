@@ -16,7 +16,7 @@
   </section>
   <section>
     <h2>Portfolio</h2>
-  <p>Explore meu <a href="">portfólio</a> (inativo) para ver exemplos de meu trabalho com Solid.js e Tailwind CSS.</p>
+  <p>Explore meu <a href="">portfólio (inativo)</a> para ver exemplos de meu trabalho com Solid.js e Tailwind CSS.</p>
   <h4>Guia rápido para alguns projetos:</h4>
     <a href="https://futuresphere.vercel.app/" target="_blank">FutureSphere</a>
   </section>
