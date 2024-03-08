@@ -10,7 +10,7 @@
 <main>
   <section>
     <h2>Sobre</h2>
-    <p>Sou um desenvolvedor focado em Front-End, aspirante a Full-Stack, com expertise em Solid.js, Tailwind e TypeScript.
+    <p>Sou um desenvolvedor focado em Front-End, aspirante a Full-Stack, com expertise em TypeScript, Tailwind e Solid.js.
     <br>Utilizo o Solid.js em meus projetos pessoais para criar interfaces reativas e eficientes.
     <br>Estou aberto a oportunidades profissionais onde possa aplicar minha paixão pelo desenvolvimento de software e continuar aprendendo e crescendo.</p>
   </section>
