@@ -1,12 +1,12 @@
 # 💻 Desenvolvedor Front-End | Aspirante a Full-Stack
 
-<div align="center">
+<div>
   <p>Olá! Sou um desenvolvedor especializado em JavaScript e TypeScript, com foco em Front-End e em expansão para o Back-End. Minha expertise inclui Solid.js para interfaces reativas e NestJS para construção de sistemas escaláveis.</p>
 </div>
 
 ## 🚀 Sobre Mim
 
-<div align="center">
+<div>
   <ul style="list-style-type: none; padding: 0;">
     <li>💡 <strong>Foco atual</strong>: Evoluir para Full-Stack com NestJS e Drizzle ORM</li>
     <li>🛠️ <strong>Princípios</strong>: Código modular, SOLID, Design Patterns e boas práticas</li>
@@ -17,7 +17,7 @@
 
 ## 🛠️ Hard Skills
 
-<div align="center">
+<div">
   <h3>Linguagens</h3>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -55,7 +55,7 @@
 
 ## 🌟 Projetos Destacados
 
-<div align="center">
+<div>
   <h3><a href="https://github.com/pattuzzoj/utilify">Utilify</a></h3>
   <p>📦 Biblioteca minimalista de utilitários para JS/TS com:</p>
   <ul style="text-align: left; display: inline-block;">
@@ -74,13 +74,13 @@
 
 ## 📊 Estatísticas
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattuzzoj&layout=compact&langs_count=6&theme=dark" alt="Estatísticas GitHub">
 </div>
 
 ## 📩 Contato
 
-<div align="center">
+<div>
   <p>Vamos conversar sobre oportunidades ou colaborações!</p>
   <a href="https://www.linkedin.com/in/pattuzzo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
