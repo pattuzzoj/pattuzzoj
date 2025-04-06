@@ -19,38 +19,43 @@
 
 <div>
   <h3>Linguagens</h3>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+  <img width="30" src="/icons/javascript.svg" alt="JavaScript" title="JavaScript">
+  <img width="30" src="/icons/typescript.svg" alt="TypeScript" title="TypeScript">
+  <img width="30" src="/icons/python.svg" alt="Python" title="Python">
+  <img width="30" src="/icons/lua.svg" alt="Lua" title="Lua">
 
   <h3>Front-End</h3>
-  <img src="https://img.shields.io/badge/Solid%20JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" alt="Solid.js">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img width="30" src="/icons/solid.svg" alt="Solid.js" title="Solid.js">
+  <img width="30" src="/icons/react.svg" alt="React" title="React">
+  <img width="30" src="/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS">
 
   <h3>Back-End</h3>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img width="30" src="/icons/nestjs.svg" alt="NestJS" title="NestJS">
+  <img width="30" src="/icons/express.svg" alt="Express" title="Express">
+  <img width="30" src="/icons/nodejs.svg" alt="Node.js" title="Node.js">
 
   <h3>Bancos de Dados</h3>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/IndexedDB-ED8B00?style=for-the-badge&logo=html5&logoColor=white" alt="IndexedDB">
+  <img width="30" src="/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL">
+  <img width="30" src="/icons/mysql.svg" alt="MySQL" title="MySQL">
+  <img width="100" src="https://img.shields.io/badge/IndexedDB-ED8B00?style=for-the-badge&logo=html5&logoColor=white" alt="IndexedDB" title="IndexedDB">
 
   <h3>ORM</h3>
-  <img src="https://img.shields.io/badge/Drizzle-3982CE?style=for-the-badge&logo=prisma&logoColor=white" alt="Drizzle">
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
-  <img src="https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM">
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize">
+  <img width="40" src="/icons/drizzle.svg" alt="Drizzle" title="Drizzle">
+  <img width="30" src="/icons/prisma.svg" alt="Prisma" title="Prisma">
+  <img width="30" src="/icons/typeorm.svg" alt="TypeORM" title="TypeORM">
+  <img width="30" src="/icons/sequelize.svg" alt="Sequelize" title="Sequelize">
 
   <h3>Testes</h3>
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+  <img width="30" src="/icons/vitest.svg" alt="Vitest" title="Vitest">
+  <img width="30" src="/icons/jest.svg" alt="Jest" title="Jest">
 
   <h3>Documentação</h3>
-  <img src="https://img.shields.io/badge/VitePress-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="VitePress">
+  <img width="30" src="/icons/vitepress.svg" alt="VitePress" title="VitePress">
+
+  <h3>Outras Ferramentas</h3>
+  <img width="30" src="/icons/git.svg" alt="Git" title="Git">
+  <img width="30" src="/icons/zod.svg" alt="Zod" title="Zod">
+  <img width="30" src="/icons/vite.svg" alt="Vite" title="Vite">  
 </div>
 
 ## 🌟 Projetos Destacados
@@ -61,7 +66,7 @@
   <ul style="text-align: left; display: inline-block;">
     <li>Segurança de tipos avançada</li>
     <li>Documentação com VitePress</li>
-    <li>Testes rigorosos com Jest/Vitest</li>
+    <li>Testes rigorosos com Jest (futura implementação com Vitest)</li>
     <li>Foco em eficiência e modularidade</li>
   </ul>
 

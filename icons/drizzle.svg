@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg width="88" height="48" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#C5F74F" height="22.98" id="svg_1" transform="matrix(0.873028 0.48767 -0.497212 0.867629 24.459 24.3583)" width="5.42"/>
+  <rect fill="#C5F74F" height="22.98" id="svg_2" transform="matrix(0.873028 0.48767 -0.497212 0.867629 43.2793 12.6755)" width="5.42"/>
+  <rect fill="#C5F74F" height="22.98" id="svg_3" transform="matrix(0.873028 0.48767 -0.497212 0.867629 72.2383 12.676)" width="5.42"/>
+  <rect fill="#C5F74F" height="22.98" id="svg_4" transform="matrix(0.873028 0.48767 -0.497212 0.867629 53.4121 24.3583)" width="5.42"/>
+ </g>
+</svg>
