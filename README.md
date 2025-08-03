@@ -51,7 +51,7 @@
   <p><strong>Tecnologias:</strong> VitePress, Vitest</p>
   <p style="display: flex; gap: 8px; align-items: center; justify-content: flex-start;">
     <a href="https://utilify.js.org/" style="display: inline-block; padding: 6px 12px; background-color: #155dfc; color: white; text-decoration: none; border-radius: 4px;">Ver Projeto</a>
-    <a href="https://github.com/pattuzzoj/utilify" style="display: inline-block; background-color: #1d293d; border-radius: 4px;"><img style="padding: 4px 8px;" src="./icons/GitHub.svg"/></a>
+    <a href="https://github.com/pattuzzoj/utilify" style="display: inline-block; background-color: #1d293d; border-radius: 4px;"><img style="padding: 4px 8px;" src="./icons/github.svg"/></a>
   </p>
 
   <h3>Nexon Utilis</h3>
@@ -59,7 +59,7 @@
   <p><strong>Tecnologias:</strong> Solid.js, Tailwind CSS</p>
   <p style="display: flex; gap: 8px; align-items: center; justify-content: flex-start;">
     <a href="https://nexonutilis.vercel.app" style="display: inline-block; padding: 6px 12px; background-color: #155dfc; color: white; text-decoration: none; border-radius: 4px;">Ver Projeto</a>
-    <a href="https://github.com/pattuzzoj/nexonutilis" style="display: inline-block; background-color: #1d293d; border-radius: 4px;"><img style="padding: 4px 8px;" src="./icons/GitHub.svg"/></a>
+    <a href="https://github.com/pattuzzoj/nexonutilis" style="display: inline-block; background-color: #1d293d; border-radius: 4px;"><img style="padding: 4px 8px;" src="./icons/github.svg"/></a>
   </p>
 </div>
 
