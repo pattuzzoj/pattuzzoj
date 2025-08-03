@@ -9,38 +9,39 @@
 
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" data-tab="front-end">
   <h3>Front-End</h3>
-  <img height=40 width=40 src="./icons/Astro.svg" alt="Astro">
-  <img height=40 width=40 src="./icons/Solid.js.svg" alt="Solid.js">
-  <img height=40 width=40 src="./icons/Next.js.svg" alt="Next.js">
-  <img height=40 width=40 src="./icons/React.svg" alt="React">
-  <img height=40 width=40 src="./icons/Tailwind CSS.svg" alt="Tailwind CSS">
+  <img height=40 width=40 src="./icons/astro.svg" alt="Astro">
+  <img height=40 width=40 src="./icons/solid.js.svg" alt="Solid.js">
+  <img height=40 width=40 src="./icons/next.js.svg" alt="Next.js">
+  <img height=40 width=40 src="./icons/react.svg" alt="React">
+  <img height=40 width=40 src="./icons/tailwind css.svg" alt="Tailwind CSS">
 </div>
 
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" data-tab="back-end">
   <h3>Back-End</h3>
-  <img height=40 width=40 src="./icons/Nest.js.svg" alt="NestJS">
-  <img height=40 width=40 src="./icons/Express.svg" alt="Express">
-  <img height=40 width=40 src="./icons/Node.js.svg" alt="Node.js">
+  <img height=40 width=40 src="./icons/nest.js.svg" alt="NestJS">
+  <img height=40 width=40 src="./icons/express.svg" alt="Express">
+  <img height=40 width=40 src="./icons/node.js.svg" alt="Node.js">
 </div>
 
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" data-tab="database">
   <h3>Database</h3>
-  <img height=40 width=40 src="./icons/Drizzle.svg" alt="DrizzleORM">
-  <img height=40 width=40 src="./icons/Prisma.svg" alt="Prisma">
-  <img height=40 width=40 src="./icons/PostgresSQL.svg" alt="PostgreSQL">
-  <img height=40 width=40 src="./icons/Mongodb.svg" alt="MongoDB">
+  <img height=40 width=40 src="./icons/drizzle.svg" alt="DrizzleORM">
+  <img height=40 width=40 src="./icons/prisma.svg" alt="Prisma">
+  <img height=40 width=40 src="./icons/postgressql.svg" alt="PostgreSQL">
+  <img height=40 width=40 src="./icons/mongodb.svg" alt="MongoDB">
 </div>
 
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" data-tab="testes">
   <h3>Tests</h3>
-  <img height=40 width=40 src="./icons/Vitest.svg" alt="Vitest">
-  <img height=40 width=40 src="./icons/Jest.svg" alt="Jest">
+  <img height=40 width=40 src="./icons/vitest.svg" alt="Vitest">
+  <img height=40 width=40 src="./icons/jest.svg" alt="Jest">
 </div>
 
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" data-tab="tools">
   <h3>Tools</h3>
-  <img height=40 width=40 src="./icons/Git.svg" alt="Git">
-  <img height=40 width=40 src="./icons/Docker.svg" alt="Docker"></div>
+  <img height=40 width=40 src="./icons/git.svg" alt="Git">
+  <img height=40 width=40 src="./icons/docker.svg" alt="Docker">
+</div>
 
 ## 🌟 Projetos Destacados
 
