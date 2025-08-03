@@ -1,79 +1,64 @@
-# 💻 Desenvolvedor Front-End | Aspirante a Full-Stack
+# 💻 Desenvolvedor Full Stack
 
 <div>
-  <p>Olá! Sou um desenvolvedor especializado em JavaScript e TypeScript, com foco em Front-End e em expansão para o Back-End. Minha expertise inclui Solid.js para interfaces reativas e NestJS para construção de sistemas escaláveis.</p>
-</div>
-
-## 🚀 Sobre Mim
-
-<div>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>💡 <strong>Foco atual</strong>: Evoluir para Full-Stack com NestJS e Drizzle ORM</li>
-    <li>🛠️ <strong>Princípios</strong>: Código modular, SOLID, Design Patterns e boas práticas</li>
-    <li>🌱 <strong>Aprendendo</strong>: Arquitetura de software e escalabilidade backend</li>
-    <li>🔍 <strong>Buscando</strong>: Oportunidades desafiadoras para crescer profissionalmente</li>
-  </ul>
+  <p>Olá! Sou Júlio Pattuzzo, desenvolvedor Full Stack com formação em Análise e Desenvolvimento de Sistemas. Tenho domínio em TypeScript e especialização em criar interfaces modernas e responsivas. Trabalho com tecnologias de ponta no front e back-end, focando em código limpo, arquitetura modular e soluções funcionais. Estou em constante evolução, estudando novas ferramentas e práticas que fazem diferença na prática.</p>
+  <p>Conheça meu portfólio completo: <a href="https://pattuzzoj.vercel.app/" style="display:inline-block;padding:2px 4px;background:#155dfc;color:white;border-radius:6px;font-weight:bold;margin-top:8px;font-size:1.1em;">Portfólio</a></p>
 </div>
 
 ## 🛠️ Hard Skills
 
-<div>
-  <h3>Linguagens</h3>
-  <img width="30" src="/icons/javascript.svg" alt="JavaScript" title="JavaScript">
-  <img width="30" src="/icons/typescript.svg" alt="TypeScript" title="TypeScript">
-  <img width="30" src="/icons/python.svg" alt="Python" title="Python">
-  <img width="30" src="/icons/lua.svg" alt="Lua" title="Lua">
-
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" data-tab="front-end">
   <h3>Front-End</h3>
-  <img width="30" src="/icons/solid.svg" alt="Solid.js" title="Solid.js">
-  <img width="30" src="/icons/react.svg" alt="React" title="React">
-  <img width="30" src="/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS">
-
-  <h3>Back-End</h3>
-  <img width="30" src="/icons/nestjs.svg" alt="NestJS" title="NestJS">
-  <img width="30" src="/icons/express.svg" alt="Express" title="Express">
-  <img width="30" src="/icons/nodejs.svg" alt="Node.js" title="Node.js">
-
-  <h3>Bancos de Dados</h3>
-  <img width="30" src="/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL">
-  <img width="30" src="/icons/mysql.svg" alt="MySQL" title="MySQL">
-  <img width="100" src="https://img.shields.io/badge/IndexedDB-ED8B00?style=for-the-badge&logo=html5&logoColor=white" alt="IndexedDB" title="IndexedDB">
-
-  <h3>ORM</h3>
-  <img width="40" src="/icons/drizzle.svg" alt="Drizzle" title="Drizzle">
-  <img width="30" src="/icons/prisma.svg" alt="Prisma" title="Prisma">
-  <img width="30" src="/icons/typeorm.svg" alt="TypeORM" title="TypeORM">
-  <img width="30" src="/icons/sequelize.svg" alt="Sequelize" title="Sequelize">
-
-  <h3>Testes</h3>
-  <img width="30" src="/icons/vitest.svg" alt="Vitest" title="Vitest">
-  <img width="30" src="/icons/jest.svg" alt="Jest" title="Jest">
-
-  <h3>Documentação</h3>
-  <img width="30" src="/icons/vitepress.svg" alt="VitePress" title="VitePress">
-
-  <h3>Outras Ferramentas</h3>
-  <img width="30" src="/icons/git.svg" alt="Git" title="Git">
-  <img width="30" src="/icons/zod.svg" alt="Zod" title="Zod">
-  <img width="30" src="/icons/vite.svg" alt="Vite" title="Vite">  
+  <img height=40 width=40 src="./icons/Astro.svg" alt="Astro">
+  <img height=40 width=40 src="./icons/Solid.js.svg" alt="Solid.js">
+  <img height=40 width=40 src="./icons/Next.js.svg" alt="Next.js">
+  <img height=40 width=40 src="./icons/React.svg" alt="React">
+  <img height=40 width=40 src="./icons/Tailwind CSS.svg" alt="Tailwind CSS">
 </div>
+
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" data-tab="back-end">
+  <h3>Back-End</h3>
+  <img height=40 width=40 src="./icons/Nest.js.svg" alt="NestJS">
+  <img height=40 width=40 src="./icons/Express.svg" alt="Express">
+  <img height=40 width=40 src="./icons/Node.js.svg" alt="Node.js">
+</div>
+
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" data-tab="database">
+  <h3>Database</h3>
+  <img height=40 width=40 src="./icons/Drizzle.svg" alt="DrizzleORM">
+  <img height=40 width=40 src="./icons/Prisma.svg" alt="Prisma">
+  <img height=40 width=40 src="./icons/PostgresSQL.svg" alt="PostgreSQL">
+  <img height=40 width=40 src="./icons/Mongodb.svg" alt="MongoDB">
+</div>
+
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" data-tab="testes">
+  <h3>Tests</h3>
+  <img height=40 width=40 src="./icons/Vitest.svg" alt="Vitest">
+  <img height=40 width=40 src="./icons/Jest.svg" alt="Jest">
+</div>
+
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" data-tab="tools">
+  <h3>Tools</h3>
+  <img height=40 width=40 src="./icons/Git.svg" alt="Git">
+  <img height=40 width=40 src="./icons/Docker.svg" alt="Docker"></div>
 
 ## 🌟 Projetos Destacados
 
 <div>
-  <h3><a href="https://github.com/pattuzzoj/utilify">Utilify</a></h3>
-  <p>📦 Biblioteca minimalista de utilitários para JS/TS com:</p>
-  <ul style="text-align: left; display: inline-block;">
-    <li>Segurança de tipos avançada</li>
-    <li>Documentação com VitePress</li>
-    <li>Testes rigorosos com Jest (futura implementação com Vitest)</li>
-    <li>Foco em eficiência e modularidade</li>
-  </ul>
+  <h3>Utilify</h3>
+  <p>📦 Biblioteca de funções utilitárias com tipagem segura para o ecossistema JavaScript, fornecendo uma coleção de ferramentas e funções úteis. API intuitiva, documentação objetiva, testes completos e suporte nativo a Node.js, Deno, Bun e navegadores modernos.</p>
+  <p><strong>Tecnologias:</strong> VitePress, Vitest</p>
+  <p style="display: flex; gap: 8px; align-items: center; justify-content: flex-start;">
+    <a href="https://utilify.js.org/" style="display: inline-block; padding: 6px 12px; background-color: #155dfc; color: white; text-decoration: none; border-radius: 4px;">Ver Projeto</a>
+    <a href="https://github.com/pattuzzoj/utilify" style="display: inline-block; background-color: #1d293d; border-radius: 4px;"><img style="padding: 4px 8px;" src="./icons/GitHub.svg"/></a>
+  </p>
 
-  <h3>Outros Projetos</h3>
-  <p>
-    <a href="https://nexonutilis.vercel.app/" target="_blank">Nexon Utilis</a> - Coleção de ferramentas web<br>
-    <a href="https://futuresphere.vercel.app/" target="_blank">FutureSphere</a> - Aplicação futurista com Solid.js
+  <h3>Nexon Utilis</h3>
+  <p>Hub centralizado de recursos para desenvolvedores e profissionais de tecnologia. Organizado por categorias, reúne tutoriais, cursos, ferramentas e conteúdos técnicos para diversas áreas do desenvolvimento, com foco em acessibilidade e praticidade.</p>
+  <p><strong>Tecnologias:</strong> Solid.js, Tailwind CSS</p>
+  <p style="display: flex; gap: 8px; align-items: center; justify-content: flex-start;">
+    <a href="https://nexonutilis.vercel.app" style="display: inline-block; padding: 6px 12px; background-color: #155dfc; color: white; text-decoration: none; border-radius: 4px;">Ver Projeto</a>
+    <a href="https://github.com/pattuzzoj/nexonutilis" style="display: inline-block; background-color: #1d293d; border-radius: 4px;"><img style="padding: 4px 8px;" src="./icons/GitHub.svg"/></a>
   </p>
 </div>
 
@@ -87,6 +72,9 @@
 
 <div>
   <p>Vamos conversar sobre oportunidades ou colaborações!</p>
+  <a href="https://pattuzzoj.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-155dfc?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+  </a>
   <a href="https://www.linkedin.com/in/pattuzzoj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
