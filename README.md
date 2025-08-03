@@ -2,7 +2,7 @@
 
 <div>
   <p>Olá! Sou Júlio Pattuzzo, desenvolvedor Full Stack com formação em Análise e Desenvolvimento de Sistemas. Tenho domínio em TypeScript e especialização em criar interfaces modernas e responsivas. Trabalho com tecnologias de ponta no front e back-end, focando em código limpo, arquitetura modular e soluções funcionais. Estou em constante evolução, estudando novas ferramentas e práticas que fazem diferença na prática.</p>
-  <p>Conheça meu portfólio completo: <a href="https://pattuzzoj.vercel.app/" style="display:inline-block;padding:2px 4px;background:#155dfc;color:white;border-radius:6px;font-weight:bold;margin-top:8px;font-size:1.1em;">Portfólio</a></p>
+  <p>Conheça meu portfólio completo: <a href="https://pattuzzoj.vercel.app/">Portfólio</a></p>
 </div>
 
 ## 🛠️ Hard Skills
@@ -49,18 +49,14 @@
   <h3>Utilify</h3>
   <p>📦 Biblioteca de funções utilitárias com tipagem segura para o ecossistema JavaScript, fornecendo uma coleção de ferramentas e funções úteis. API intuitiva, documentação objetiva, testes completos e suporte nativo a Node.js, Deno, Bun e navegadores modernos.</p>
   <p><strong>Tecnologias:</strong> VitePress, Vitest</p>
-  <p style="display: flex; gap: 8px; align-items: center; justify-content: flex-start;">
-    <a href="https://utilify.js.org/" style="display: inline-block; padding: 6px 12px; background-color: #155dfc; color: white; text-decoration: none; border-radius: 4px;">Ver Projeto</a>
-    <a href="https://github.com/pattuzzoj/utilify" style="display: inline-block; background-color: #1d293d; border-radius: 4px;"><img style="padding: 4px 8px;" src="./icons/github.svg"/></a>
-  </p>
+  <a href="https://utilify.js.org">Ver Projeto</a>
+  <a href="https://github.com/pattuzzoj/utilify">Repositório</a>
 
   <h3>Nexon Utilis</h3>
   <p>Hub centralizado de recursos para desenvolvedores e profissionais de tecnologia. Organizado por categorias, reúne tutoriais, cursos, ferramentas e conteúdos técnicos para diversas áreas do desenvolvimento, com foco em acessibilidade e praticidade.</p>
   <p><strong>Tecnologias:</strong> Solid.js, Tailwind CSS</p>
-  <p style="display: flex; gap: 8px; align-items: center; justify-content: flex-start;">
-    <a href="https://nexonutilis.vercel.app" style="display: inline-block; padding: 6px 12px; background-color: #155dfc; color: white; text-decoration: none; border-radius: 4px;">Ver Projeto</a>
-    <a href="https://github.com/pattuzzoj/nexonutilis" style="display: inline-block; background-color: #1d293d; border-radius: 4px;"><img style="padding: 4px 8px;" src="./icons/github.svg"/></a>
-  </p>
+  <a href="https://nexonutilis.vercel.app">Ver Projeto</a>
+  <a href="https://github.com/pattuzzoj/nexonutilis">Repositório</a>
 </div>
 
 ## 📊 Estatísticas
